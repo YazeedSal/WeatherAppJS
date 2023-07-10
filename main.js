@@ -13,7 +13,7 @@ const getWeather = async function () {
         container.innerHTML = ww;
       });
   } catch (error) {
-    console.log("no");
+    console.log("noo");
   }
 };
 const getWeather2 = async function () {
